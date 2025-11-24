@@ -8,6 +8,7 @@ TagManager:
   - UI
   - Passenger
   - Destination
+  - Road
   layers:
   - Default
   - TransparentFX
